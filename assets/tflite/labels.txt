@@ -1,0 +1,31 @@
+0 Apple
+1 Banana
+2 Avocado
+3 Beetroot
+4 Cauliflower
+5 Chestnut
+6 Cocos
+7 Corn
+8 Ginger
+9 Grapes
+10 Guava
+11 Hazelnut
+12 Kiwi
+13 Lemon
+14 Limes
+15 Lychee
+16 Raw Mango
+17 Mango Ripe
+18 Melon Piel de Sapo
+19 Onion
+20 Orange
+21 Papaya
+22 Pineapple
+23 Dragon Fruit
+24 Pomegranate
+25 Potato
+26 Potato Sweet
+27 Strawberry
+28 Tomato
+29 Walnut
+30 Watermelon
