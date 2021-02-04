@@ -36,4 +36,4 @@ This Image Classifier App uses a model trained in **Tensorflow lite** to recogni
 - Watermelon
 
 ## Interface
-<img src="https://github.com/cybergodayush/FruitVegeClassifier/blob/master/test/ezgif-1-b0fbb2ee61f4.gif" width="500px" height="800px">
+<img src="https://github.com/cybergodayush/FruitVegeClassifier/blob/master/test/ezgif-1-b0fbb2ee61f4.gif" width="400px" height="600px">
