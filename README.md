@@ -1,6 +1,42 @@
-# fruitvegeclassifier
+# Fruit-Vegetable Classifier
 
-A new Flutter project.
+This Image Classifier App uses a model trained in **Tensorflow lite** to recognise Fruits and Vegetable.
+30 Fruit-Vegetable can be recognised through the app.
+
+- Apple
+- Banana
+- Avocado
+- Beetroot
+- Cauliflower
+- Chestnut
+- Cocos
+- Corn
+- Ginger
+- Grapes
+- Guava
+- Hazelnut
+- Kiwi
+- Lemon
+- Limes
+- Lychee
+- Raw Mango
+- Mango Ripe
+- Melon Piel de Sapo
+- Onion
+- Orange
+- Papaya
+- Pineapple
+- Dragon Fruit
+- Pomegranate
+- Potato
+- Potato Sweet
+- Strawberry
+- Tomato
+- Walnut
+- Watermelon
+
+
+
 
 ## Getting Started
 
